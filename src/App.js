@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.scss';
 import MyHeader from './components/header';
+// @flow
 
 class App extends Component {
   render() {
