@@ -1,0 +1,16 @@
+{
+  "extends": "sdfsdf",
+  "env": {
+      "node": true
+  },
+  "parserOptions": {
+      "ecmaVersion": 2017
+  },
+  "rules": {
+      "linebreak-style": "off",
+      "comma-dangle": "off",
+      "object-curly-spacing": "warn",
+      "import/prefer-default-export": "off",
+      "arrow-body-style": "warn"
+  }
+}
